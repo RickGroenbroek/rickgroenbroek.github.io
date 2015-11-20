@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Process
+title: Task 
 image: 
    feature: abstract-3.jpg
    credit: mosta2bal
@@ -15,13 +15,10 @@ share: true
 
 
 
-
-
-
 <div style="float: left"> 
-<a href="{{ site.url }}/projects/commerce/project-2/task-2/" class="btn">Go back to task</a>
+<a href="{{ site.url }}/webquest/commerce/webquest-2/introduction-2/" class="btn">Go back to introduction</a>
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/projects/commerce/project-2/evaluation-2/" class="btn">Go to evaluation</a>
+<a href="{{ site.url }}/webquest/commerce/webquest-2/process-2/" class="btn">Go to process</a>
 </div>

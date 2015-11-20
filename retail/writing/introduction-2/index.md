@@ -16,9 +16,7 @@ Hello
 
 
 
-
-
-
 <div style="float: right"> 
-<a href="{{ site.url }}/projects/commerce/project-2/task-2/" class="btn">Go to task</a>
+<a href="{{ site.url }}/webquest/commerce/webquest-2/task-2/" class="btn">Go to task</a>
 </div>
+
