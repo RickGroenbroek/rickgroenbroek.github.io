@@ -8,6 +8,7 @@ share: false
 
 <ul style="list-style-type:circle">
 
+<li><a href="./documentation/pitch-minor.pptx" download>Pitch Minor</a></li>
 <li><a href="" download="pitch-minor.pptx">Pitch Minor Multimediaal ontwerpen</a></li>
 <li><a href="" download="australia.pptx">Powerpoint on Australia!</a></li>
 <li><a href="" download="reading-exercise.docx">A fun reading exercise!</a></li>
