@@ -5,15 +5,5 @@ comments: true
 modified: 2015-09-26
 share: false
 ---
-
-<ul style="list-style-type:circle">
-
-<li><a href="./documentation/pitch-minor.pptx" download>Pitch Minor</a></li>
-<li><a href="" download="pitch-minor.pptx">Pitch Minor Multimediaal ontwerpen</a></li>
-<li><a href="" download="australia.pptx">Powerpoint on Australia!</a></li>
-<li><a href="" download="reading-exercise.docx">A fun reading exercise!</a></li>
-<li><a href="" download="words-2020.pdf">Wordlist 2020</a></li>
-
-</ul>
-
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B2AhFhnZF_m2TkphUWJ6U29SalU#list" width="650" height="250" frameborder="0"></iframe>
 
