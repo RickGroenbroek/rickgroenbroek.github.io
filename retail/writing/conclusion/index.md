@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Conclusion
+title: Evaluation
 image: 
    feature: abstract-3.jpg
    credit: mosta2bal
@@ -8,6 +8,9 @@ image:
 comments: true
 share: true 
 ---
+What did you think of this exercise?
+
+<br>Please answer the questions in the provided space on your sheet.
 
 
 
@@ -17,6 +20,6 @@ share: true
 
 
 <div style="float: left"> 
-<a href="{{ site.url }}/retail/writing/evaluation/" class="btn">Go back to evaluation</a>
+<a href="{{ site.url }}/retail/writing/evaluation/" class="btn">Go back to exercise</a>
 </div>
 
