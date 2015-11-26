@@ -16,9 +16,9 @@ share: true
 
 
 <div style="float: left"> 
-<a href="{{ site.url }}/leisure-hospitality/project/task-/" class="btn">Go back to task</a>
+<a href="{{ site.url }}/leisure-hospitality/project/task/" class="btn">Go back to task</a>
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}leisure-hospitality/project/week-1/" class="btn">Go to week one</a>
+<a href="{{ site.url }}/leisure-hospitality/project/week-1/" class="btn">Go to week one</a>
 </div>
