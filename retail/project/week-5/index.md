@@ -2,7 +2,7 @@
 layout: page 
 title: Week five
 image: 
-   feature: abstract-2.jpg
+   feature: abstract-10.jpg
    credit: mosta2bal
    creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
 comments: true
