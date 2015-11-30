@@ -27,12 +27,12 @@ Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunte
 <br>
 Stel een cv op dat past bij de functie die je hebt gevonden.
 <br>
-<ul style="list-style-type:disc">
+
 <li>Je hebt tijdens je opleiding misschien al eens een cv moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = adress, etc.</li>
 <li>Houd je cv eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.</li>
 <li>Maak het cv mooi op in Word.</li>
 <li>Lees elkaars cv na en help elkaar met verbeteringen</li>
-</ul>
+
 <br>
 <br>
 <b>Succes!</b>
