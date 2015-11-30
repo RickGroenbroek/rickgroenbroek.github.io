@@ -8,8 +8,8 @@ image:
 share: false
 comments: false
 ---
-Opdracht
-<br>
+<br>Opdracht:
+
 <b>1. Vinden van een vacature</b>
 <br>
 Zoek vacatures die bij jou en je opleiding passen. Gebruik hiervoor de adressen onderaan deze pagina.
