@@ -8,3 +8,20 @@ image:
 share: false
 comments: false
 ---
+
+Lesson two
+
+Here you will find the second lesson, which I still have to add.
+
+
+
+
+
+
+<div style="float: left"> 
+<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go back to lesson one</a>
+</div>
+
+<div style="float: right"> 
+<a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go to lesson three</a>
+</div>

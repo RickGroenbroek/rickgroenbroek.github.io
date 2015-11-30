@@ -36,3 +36,11 @@ Stel een cv op dat past bij de functie die je hebt gevonden.
 <br>
 <br>
 <b>Succes!</b>
+
+<div style="float: left"> 
+<a href="{{ site.url }}/groepsopdracht/assignment/" class="btn">Go back to assignment</a>
+</div>
+
+<div style="float: right"> 
+<a href="{{ site.url }}/groepsopdracht/lesson-two/" class="btn">Go to lesson two</a>
+</div>

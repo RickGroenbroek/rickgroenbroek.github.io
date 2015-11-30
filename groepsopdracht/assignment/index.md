@@ -19,3 +19,12 @@ Hieronder vind je een overzicht van de opdrachten:
 <b>Opdracht</b>
 <br>
 <br>Werk samen aan de opdrachten. Lees eerst alle onderdelen door. Je kunt het werk onderling verdelen. Houd elkaar tijdens het werken aan de opdrachten op de hoogte van je vorderingen.
+
+
+<div style="float: left"> 
+<a href="{{ site.url }}/groepsopdracht/introduction/" class="btn">Go back to introduction</a>
+</div>
+
+<div style="float: right"> 
+<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go to lesson one</a>
+</div>

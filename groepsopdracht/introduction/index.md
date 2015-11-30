@@ -23,3 +23,7 @@ Deze groepsopdracht bestaat uit:
 Deze opdracht is een groepsopdracht voor twee studenten. Lees eerst de opdracht helemaal door. Bekijk daarna hoeveel tijd iedere stap kost. Op grond van die tijdbelasting verdeel je de taken. Zorg dat iedereen ongeveer even veel doet.
 
 Succes!
+
+<div style="float: right"> 
+<a href="{{ site.url }}/groepsopdracht/assignment/" class="btn">Go to the assignment</a>
+</div>
