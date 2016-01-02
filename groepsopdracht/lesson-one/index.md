@@ -8,33 +8,46 @@ image:
 share: false
 comments: false
 ---
-<br>Opdracht:
+Tijdens de eerste les ga je werken aan de volgende twee opdrachten. Lees elke opdracht eerst goed door, voordat je er aan begint. Zo weet je wat er van je verwacht wordt.
 
-<b>1. Vinden van een vacature</b>
-<br>
-Zoek vacatures die bij jou en je opleiding passen. Gebruik hiervoor de adressen onderaan deze pagina.
-<br>
+Benodigdheden:
+- laptop met internetverbinding
+- Microsoft Word
+
+Situatie:
+Je wilt stagelopen in Engeland. Je moet hiervoor een vacature vinden die aansluit bij jouw opleiding.
+
+Opdracht:
+<b>1. vinden van een vacature</b>
+Zoek vacatures die bij jou en je opleiding passen. Gebruik hiervoor de adressen onder deze opdracht.
+
 Bespreek eerst met je medestudent hoe je het zoeken wilt aanpakken. Je kunt bijvoorbeeld eerst een lijst maken van passende functies en hun Engelse vertalingen. Die kun je dan gebruiken om op internet te zoeken.
-<br>
-Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunten hebt voor je cv en je brief. Zorg ook dat je een bedrijfsnaam hebt en een postadres of e-mailadres.
-<br>
-<li><a href="http://www.jobsearch.co.uk/">JobSearch.co.uk</a></li>
-<li><a href="http://www.monster.co.uk/">Monster.co.uk</a></li>
-<li><a href="http://www.jobs.co.uk/">Jobs.co.uk</a></li>
-<br>
-<br>
-<b>2. Opstellen van je cv</b>
-<br>
-Stel een cv op dat past bij de functie die je hebt gevonden.
-<br>
 
-<li>Je hebt tijdens je opleiding misschien al eens een cv moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = adress, etc.</li>
-<li>Houd je cv eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.</li>
-<li>Maak het cv mooi op in Word.</li>
-<li>Lees elkaars cv na en help elkaar met verbeteringen</li>
+Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunten hebt voor je CV en je brief. Zorg ook dat je een bedrijfsnaam hebt en een postadres of e-mailadres.
 
-<br>
-<br>
+<li><a href="http://www.jobsearch.co.uk/" target="_blank">JobSearch.co.uk</a></li>
+<li><a href="http://www.monster.co.uk/" target="_blank">Monster.co.uk</a></li>
+<li><a href="http://www.jobsite.co.uk/" target="_blank">Jobsite.co.uk</a></li>
+
+Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalige vacatures in opnemen, met een link naar de vacature.
+
+
+Benodigdheden:
+- laptop
+- Microsoft Word
+
+Situatie:
+Je hebt een vacature gevonden waarvoor je wilt solliciteren. Eerst moet je je CV in het Engels omzetten. 
+
+<b>2. opstellen van je CV</b>
+Stel een CV op dat past bij de functie die je hebt gevonden.
+
+<li>Je hebt tijdens je opleiding misschien al eens een CV moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = address, etc.</li>
+<li>Houd je CV eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.</li>
+<li>Maak het CV mooi op in Word.</li>
+<li>Lees elkaars CV na en help elkaar met verbeteringen</li>
+
+
 <b>Succes!</b>
 
 <div style="float: left"> 

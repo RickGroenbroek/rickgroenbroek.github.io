@@ -17,9 +17,14 @@ Hieronder vind je een overzicht van de opdrachten:
 <br>Zoek een passende vacature. Stel een cv op en schrijf een sollicitatiebrief. Je wilt ook bellen met het bedrijf in Engeland. Je oefent dit gesprek met je medestudent.
 <br>
 <b>Opdracht</b>
+<br>1. vinden van een vacature
+<br>2. opstellen van je eigen CV
+<br>3. schrijven van een zakelijke brief
+<br>4. voeren van een telefoongesprek
 <br>
 <br>Werk samen aan de opdrachten. Lees eerst alle onderdelen door. Je kunt het werk onderling verdelen. Houd elkaar tijdens het werken aan de opdrachten op de hoogte van je vorderingen.
 
+Klik op de knop "Go to lesson one", om naar de eerste opdrachten te gaan.
 
 <div style="float: left"> 
 <a href="{{ site.url }}/groepsopdracht/introduction/" class="btn">Go back to introduction</a>

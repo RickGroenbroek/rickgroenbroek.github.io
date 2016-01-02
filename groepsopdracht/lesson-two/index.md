@@ -8,10 +8,22 @@ image:
 share: false
 comments: false
 ---
+Tijdens de tweede les ga je werken aan het schrijven van een zakelijke brief.
 
-Lesson two
+Benodigdheden:
+- laptop
+- Microsoft Word
 
-Here you will find the second lesson, which I still have to add.
+Situatie:
+Je hebt je CV klaargemaakt, nu ga je een sollicitatiebrief schrijven aan het bedrijf waarvan jij een vacature hebt gevonden. 
+
+Opdracht:
+<b>3. schrijven van een sollicitatiebrief</b>
+Je gaat een korte sollicitatiebrief schrijven, waarin je vertelt naar welke functie je solliciteert en waarom je deze baan aantrekkelijk vindt. Houd de brief helder en direct. Het is voor de ontvanger van de brief belangrijk dat hij of zij snel kan inschatten waar de brief over gaat en wat je wilt.
+
+Voor het schrijven van de sollicitatiebrief gebruik je de informatie uit opdracht één. Je schrijft de sollicitatiebrief aan één van de bedrijven waarvan je een vacature hebt gevonden. Gebruik het postadres/e-mailadres wat bij de vacature staat. Denk om de lay-out van je brief. Denk erom dat je een duidelijke, gestructureerde brief schrijft. 
+
+Kijk ook naar het beoordelingsmodel voor meer informatie. 
 
 
 

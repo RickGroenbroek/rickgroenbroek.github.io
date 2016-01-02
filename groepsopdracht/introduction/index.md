@@ -13,12 +13,12 @@ Groepsopdracht "Taalblokken" - A first job
 
 Deze groepsopdracht bestaat uit:
 
-<li>Introductie</li>
-<li>Opdracht</li>
-<li>Les één</li>
-<li>Les twee</li>
-<li>Les drie</li>
-<li>Conclusie</li>
+- Introductie
+- Opdracht
+- Les één
+- Les twee
+- Les drie
+- Conclusie
 
 Deze opdracht is een groepsopdracht voor twee studenten. Lees eerst de opdracht helemaal door. Bekijk daarna hoeveel tijd iedere stap kost. Op grond van die tijdbelasting verdeel je de taken. Zorg dat iedereen ongeveer even veel doet.
 
