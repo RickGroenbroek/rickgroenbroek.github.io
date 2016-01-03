@@ -30,6 +30,7 @@ Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunte
 <li><a href="http://www.jobsite.co.uk/" target="_blank">Jobsite.co.uk</a></li>
 
 Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalige vacatures in opnemen, met een link naar de vacature.
+<a href="msve.nl/files/taalblokken/beoordelingsmodel-vacature.docx" target="_blank">Beoordelingsmodel vacature</a>
 
 
 Benodigdheden:
