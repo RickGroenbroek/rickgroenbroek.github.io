@@ -29,8 +29,8 @@ Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunte
 <li><a href="http://www.monster.co.uk/" target="_blank">Monster.co.uk</a></li>
 <li><a href="http://www.jobsite.co.uk/" target="_blank">Jobsite.co.uk</a></li>
 
-Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalige vacatures in opnemen, met een link naar de vacature.
-<a href="#/beoordelingsmodel-vacature.docx" target="_blank">Beoordelingsmodel vacature</a>
+Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalige vacatures in opnemen, met een link naar de vacature. Hulpmiddelen zoals zinnen en een woordenlijst vind je onderaan de pagina. Tevens vind je daar het beoordelingsmodel. 
+
 
 
 Benodigdheden:
@@ -43,13 +43,16 @@ Je hebt een vacature gevonden waarvoor je wilt solliciteren. Eerst moet je je CV
 <b>2. opstellen van je CV</b>
 Stel een CV op dat past bij de functie die je hebt gevonden.
 
-<li>Je hebt tijdens je opleiding misschien al eens een CV moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = address, etc.</li>
-<li>Houd je CV eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.</li>
-<li>Maak het CV mooi op in Word.</li>
-<li>Lees elkaars CV na en help elkaar met verbeteringen</li>
+<br>- Je hebt tijdens je opleiding misschien al eens een CV moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = address, etc.
+<br>- Houd je CV eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.
+<br>- Maak het CV mooi op in Word.
+<br>- Lees elkaars CV na en help elkaar met verbeteringen.
 
 
 <b>Succes!</b>
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWcmdvWXE4b3RpTFk#list" width="650" height="450" frameborder="0"></iframe>
+
 
 <div style="float: left"> 
 <a href="{{ site.url }}/groepsopdracht/assignment/" class="btn">Go back to assignment</a>

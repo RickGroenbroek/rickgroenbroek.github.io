@@ -23,9 +23,9 @@ Je gaat een korte sollicitatiebrief schrijven, waarin je vertelt naar welke func
 
 Voor het schrijven van de sollicitatiebrief gebruik je de informatie uit opdracht één. Je schrijft de sollicitatiebrief aan één van de bedrijven waarvan je een vacature hebt gevonden. Gebruik het postadres/e-mailadres wat bij de vacature staat. Denk om de lay-out van je brief. Denk erom dat je een duidelijke, gestructureerde brief schrijft. 
 
-Kijk ook naar het beoordelingsmodel voor meer informatie. 
+Kijk ook naar het beoordelingsmodel voor meer informatie. Die vind je hieronder. Tevens vind je hier andere hulpmiddelen, zoals een woordenlijst.
 
-
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWaDBFRXhZS2gxTHM#list" width="650" height="450" frameborder="0"></iframe>
 
 
 

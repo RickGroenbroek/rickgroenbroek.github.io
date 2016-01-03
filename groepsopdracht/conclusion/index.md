@@ -23,6 +23,11 @@ Je levert één document in met de volgende onderdelen:
 - Opdracht vier: audiobestand telefoongesprek
 - Conclusie
 
+Het beoordelingsmodel voor het eindproduct en voor de conclusie vind je hieronder.
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWc1pxN0lrMVZkWUk#list" width="650" height="450" frameborder="0"></iframe>
+
+
 <div style="float: left"> 
 <a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go back to lesson three</a>
 </div>
