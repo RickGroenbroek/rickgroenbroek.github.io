@@ -14,7 +14,6 @@ Afronding van de opdrachten
 <br>- laptop
 <br>- Microsoft Word
 <br>
-<br>
 <br>Schrijf een korte conclusie van minimaal een halve A4, waarin je benoemt hoe de samenwerking ging en wat je <b>per opdracht</b> hebt geleerd of waar je tegenaan liep. Voeg dit bij je gemaakte opdrachten en lever dit <b>digitaal</b> in bij je docent: <a href="mailto:k.dijkema@alfa-college.nl">k.dijkema@alfa-college.nl</a> Vergeet tevens je naam en klas er niet bij te vermelden.
 <br>
 <br><b>Je levert één document in met de volgende onderdelen:</b>
