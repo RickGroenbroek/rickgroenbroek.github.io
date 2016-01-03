@@ -2,7 +2,7 @@
 layout: page
 title: Lesson three
 image:
-  feature: abstract-15.jpg
+  feature: abstract-19.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: false
