@@ -25,7 +25,7 @@ Je levert één document in met de volgende onderdelen:
 
 Het beoordelingsmodel voor het eindproduct en voor de conclusie vind je hieronder.
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWc1pxN0lrMVZkWUk#list" width="650" height="450" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWc1pxN0lrMVZkWUk#list" width="650" height="200" frameborder="0"></iframe>
 
 
 <div style="float: left"> 

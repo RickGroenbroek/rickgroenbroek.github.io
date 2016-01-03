@@ -28,7 +28,7 @@ Bereid samen het telefoongesprek tussen de sollicitant en de personeelsfunctiona
 
 Zie voor meer informatie ook het beoordelingsmodel.
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWclVSZ1pMT0c3bHc#list" width="650" height="450" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWclVSZ1pMT0c3bHc#list" width="650" height="200" frameborder="0"></iframe>
 
 
 <div style="float: left"> 
