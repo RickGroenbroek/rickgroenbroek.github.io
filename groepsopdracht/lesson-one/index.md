@@ -2,7 +2,7 @@
 layout: page
 title: Lesson one
 image:
-  feature: abstract-2.jpg
+  feature: abstract-17.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: false
@@ -27,9 +27,11 @@ Bespreek eerst met je medestudent hoe je het zoeken wilt aanpakken. Je kunt bijv
 
 Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunten hebt voor je CV en je brief. Zorg ook dat je een bedrijfsnaam hebt en een postadres of e-mailadres.
 
+<ul>
 <li><a href="http://www.jobsearch.co.uk/" target="_blank">JobSearch.co.uk</a></li>
 <li><a href="http://www.monster.co.uk/" target="_blank">Monster.co.uk</a></li>
 <li><a href="http://www.jobsite.co.uk/" target="_blank">Jobsite.co.uk</a></li>
+</ul>
 
 Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalige vacatures in opnemen, met een link naar de vacature. Hulpmiddelen zoals zinnen en een woordenlijst vind je onderaan de pagina. Tevens vind je daar het beoordelingsmodel. 
 <br>
@@ -46,11 +48,12 @@ Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalig
 <br>
 <b>2. opstellen van je CV</b>
 <br><i>Stel een CV op dat past bij de functie die je hebt gevonden.</i>
-<br>- Je hebt tijdens je opleiding misschien al eens een CV moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = address, etc.
-<br>- Houd je CV eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt.
-<br>- Maak het CV mooi op in Word.
-<br>- Lees elkaars CV na en help elkaar met verbeteringen.
-<br>
+   <ul>
+<li> Je hebt tijdens je opleiding misschien al eens een CV moeten opstellen. Gebruik dit. Vertaal de onderwerpen in correct Engels, naam = name, achternaam = surname, adres = address, etc. </li>
+<li> Houd je CV eenvoudig. Gebruik korte zinnen of opsommingen. Bij lange omschrijvingen loop je een groter risico dat je fouten maakt. </li>
+<li> Maak het CV mooi op in Word. </li>
+<li> Lees elkaars CV na en help elkaar met verbeteringen. </li>
+   </ul>
 <br>Voeg je CV toe aan je Word-bestand.
 <br>
 <br>
