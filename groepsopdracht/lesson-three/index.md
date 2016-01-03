@@ -28,6 +28,9 @@ Bereid samen het telefoongesprek tussen de sollicitant en de personeelsfunctiona
 <li>De personeelsfunctionaris schrijft zijn of haar vragen uit en maakt een Engelstalige routebeschrijving naar het bedrijf/kantoor. </li>
 <li>De sollicitant maakt een lijst met de schoolvakken in het Engels. </li>
 </ul>
+
+Voor hierna het telefoongesprek uit, en neem dit gesprek op. Dit fragment lever je uiteindelijk samen met het verslag in.
+
 Zie voor meer informatie ook het beoordelingsmodel.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWclVSZ1pMT0c3bHc#list" width="650" height="200" frameborder="0"></iframe>

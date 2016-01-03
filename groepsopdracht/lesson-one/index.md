@@ -25,7 +25,7 @@ Tijdens de eerste les ga je werken aan de volgende twee opdrachten. Lees elke op
 
 Bespreek eerst met je medestudent hoe je het zoeken wilt aanpakken. Je kunt bijvoorbeeld eerst een lijst maken van passende functies en hun Engelse vertalingen. Die kun je dan gebruiken om op internet te zoeken.
 
-Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunten hebt voor je CV en je brief. Zorg ook dat je een bedrijfsnaam hebt en een postadres of e-mailadres.
+Zoek banen waar wat meer informatie over te vinden is, zodat je aanknopingspunten hebt voor je CV en je brief. Zorg ook dat je een bedrijfsnaam hebt en een postadres of e-mailadres (van minimaal twee bedrijven).
 
 <ul>
 <li><a href="http://www.jobsearch.co.uk/" target="_blank">JobSearch.co.uk</a></li>
