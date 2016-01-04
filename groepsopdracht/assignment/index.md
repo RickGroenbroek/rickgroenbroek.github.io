@@ -15,7 +15,7 @@ Hieronder vind je een overzicht van de opdrachten:
 <br>
 <br>
 <b>Resultaat</b>
-<br>Zoek een passende vacature. Stel een cv op en schrijf een sollicitatiebrief. Je wilt ook bellen met het bedrijf in Engeland. Je oefent dit gesprek met je medestudent.
+<br>Zoek een passende vacature. Stel een CV op en schrijf een sollicitatiebrief. Je wilt ook bellen met het hoofdkantoor in Amsterdam van het bedrijf in Engeland. Je oefent dit gesprek met je medestudent.
 <br>
 <br>
 <b>Opdracht</b>
