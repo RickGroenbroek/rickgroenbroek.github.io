@@ -9,11 +9,11 @@
 #- title: Chatbox
 #  url: /chatbox/
 
-#- title: Enquête/survey
-#  url: /survey/
+- title: Enquête/survey
+  url: /survey/
 
-#- title: Digischool Engels
-#  url: http://wp.digischool.nl/engels/oefenen/
+- title: Digischool Engels
+  url: http://wp.digischool.nl/engels/oefenen/
 
 #- title: Voortgangsgesprek Rick Groenbroek
 #  url: /voortgangsgesprek/
