@@ -23,11 +23,15 @@ Afronding van de opdrachten
 <br>- Opdracht vier: audiobestand telefoongesprek
 <br>- Conclusie
 <br>
-<br>Het beoordelingsmodel voor het eindproduct en voor de conclusie vind je hieronder.
+<br>Het beoordelingsmodel voor het eindproduct en voor de conclusie vind je hieronder. Als je klaar bent met de opdracht, kun je de enquête invullen. Dat kon je doen door de knop op deze pagina in te drukken óf via het menu.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWc1pxN0lrMVZkWUk#list" width="650" height="200" frameborder="0"></iframe>
 
 
 <div style="float: left"> 
 <a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go back to lesson three</a>
+</div>
+
+<div style="float: right"> 
+<a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go to the survey!</a>
 </div>
