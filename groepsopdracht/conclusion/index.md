@@ -33,5 +33,5 @@ Afronding van de opdrachten
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go to the survey!</a>
+<a href="{{ site.url }}/survey/" class="btn">Go to the survey!</a>
 </div>
