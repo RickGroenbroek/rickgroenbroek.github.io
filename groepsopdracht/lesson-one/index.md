@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson one
+title: Step one
 image:
   feature: abstract-19.jpg
   credit: dargadgetz
@@ -67,5 +67,5 @@ Noteer je bevindingen in een Word-bestand. Je moet hierin minimaal 5 Engelstalig
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/groepsopdracht/lesson-two/" class="btn">Go to lesson two</a>
+<a href="{{ site.url }}/groepsopdracht/lesson-two/" class="btn">Go to step two</a>
 </div>
