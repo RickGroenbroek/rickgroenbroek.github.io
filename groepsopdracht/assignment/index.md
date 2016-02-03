@@ -35,5 +35,5 @@ Klik op de knop "Go to lesson one", om naar de eerste opdrachten te gaan.
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go to lesson one</a>
+<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go to step one</a>
 </div>
