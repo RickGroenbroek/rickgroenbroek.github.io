@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson two
+title: Step two
 image:
   feature: abstract-19.jpg
   credit: dargadgetz
@@ -33,9 +33,9 @@ Kijk ook naar het beoordelingsmodel voor meer informatie. Die vind je hieronder.
 
 
 <div style="float: left"> 
-<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go back to lesson one</a>
+<a href="{{ site.url }}/groepsopdracht/lesson-one/" class="btn">Go back to step one</a>
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go to lesson three</a>
+<a href="{{ site.url }}/groepsopdracht/lesson-three/" class="btn">Go to step three</a>
 </div>
