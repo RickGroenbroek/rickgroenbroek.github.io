@@ -9,11 +9,15 @@ image:
 share: false
 comments: false
 ---
-Lorem ipsum 
+Welcome!
 
-<br>dolor sit amet, consectetur adipiscing elit. Suspendisse in fringilla purus. Phasellus quis ultrices mauris, ac condimentum tellus. Vestibulum condimentum tristique erat, eget ullamcorper enim. Praesent ante ante, placerat a venenatis a, dictum at ipsum. Nam vitae sodales lorem, vitae congue lacus. Sed pellentesque, eros sit amet tristique molestie, tellus quam congue risus, rhoncus dictum nibh orci ut massa. Vivamus interdum erat ipsum, sit amet vulputate risus semper at. Vestibulum odio arcu, scelerisque id eros in, elementum ornare felis. Integer nec lectus et turpis ultricies gravida vitae nec est. Nulla non aliquam arcu, id vehicula dolor. Cras vitae dolor tortor. Curabitur dapibus auctor dolor, eget feugiat ligula vulputate eget. 
+Beste studenten,
 
+Vanaf vandaag ga je bezig met het project "Business Administration". Tijdens dit project ga je bezig met de verschillende kanten van je opleiding en ga je dit toepassen in de les. Het project duurt een aantal weken en per week worden er opdrachten klaar gezet. Bij deze opdrachten vind je tevens een log-formulier. Vul deze elke week in en sla het op! Aan het einde van het hele project lever je die ook in. Mocht je bijvoorbeeld een stukje grammatica niet meer weten, kijk ook eens bij het menu onder grammar! 
 
+Veel succes met het project!
+
+Vragen kun je tijdens de les stellen aan je docent of mailen naar <a href="mailto:k.dijkema@alfa-college.nl"><i class="fa fa-fw fa-envelope"></i>k.dijkema@alfa-college.nl.</a>
 
 
 
