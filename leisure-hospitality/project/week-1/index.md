@@ -12,7 +12,7 @@ Writing a letter
 
 <b>Situatie:</b>
 
-Je hebt opdracht gekregen van jouw werkgever om twee brieven te schrijven naar twee verschillende bedrijven. Dit omdat het belangrijk is om verschillende manieren van administratie bijhouden te bekijken en bestuderen. Door dit te doen zou de huidige administratie van jouw bedrijf verbeterd kunnen worden. Zorg ervoor dat je twee verschillende brieven schrijft!
+Je hebt opdracht gekregen van jouw werkgever om twee brieven te schrijven naar twee verschillende bedrijven. Dit omdat het belangrijk is om verschillende manieren van administratie bijhouden te bekijken en bestuderen. Door dit te doen zou de huidige administratie van jouw bedrijf verbeterd kunnen worden. Zorg ervoor dat je twee verschillende brieven schrijft. Je brieven gaan naar de studenten administratief medewerkers die veel expertise hebben op dit gebied.
 
 <i>Schrijf nu jouw twee brieven door de volgende stappen uit te voeren:</i>
 
@@ -26,7 +26,7 @@ Je hebt opdracht gekregen van jouw werkgever om twee brieven te schrijven naar t
 
 {vertel dat je deze brief schrijft, omdat je wil kijken hoe je je eigen administratie beter kan doen in de toekomst}
 
-{benoem wanneer het jou uitkomt om langs te komen, benoem de datum tijd en reden van het bezoek}
+{benoem wanneer het jou uitkomt om langs te komen, dit is op 9 maart 2016 en de reden van het bezoek}
 
 {bedank de lezer voor de aandacht voor het lezen van jouw brief}
 
@@ -35,7 +35,7 @@ Je hebt opdracht gekregen van jouw werkgever om twee brieven te schrijven naar t
 {naam} 
 
 
-Sla je brieven op de computer op, zodat je het aan het einde van het project kan inleveren. Zorg ervoor dat je ook voor deze week een logboek formulier invult! Deze vind je hieronder.
+Sla je brieven op de computer op, zodat je het aan het einde van het project kan inleveren. Zorg ervoor dat je ook voor deze week een weekformulier invult! Deze vind je hieronder.
 
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWM2VweUJVS1pBc1U#list" width="650" height="200" frameborder="0"></iframe>

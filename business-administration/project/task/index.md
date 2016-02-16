@@ -8,7 +8,7 @@ image:
 comments: false
 share: false
 ---
-Business Administration,
+Administrative assistant,
 
 
 

@@ -13,7 +13,10 @@ Welcome!
 
 Beste studenten,
 
-Vanaf vandaag ga je bezig met het project "Leisure & Hospitality". Tijdens dit project ga je bezig met de verschillende kanten van je opleiding en ga je dit toepassen in de les. Het project duurt een aantal weken en per week worden er opdrachten klaar gezet. Bij deze opdrachten vind je tevens een log-formulier. Vul deze elke week in en sla het op! Aan het einde van het hele project lever je die ook in. Mocht je bijvoorbeeld een stukje grammatica niet meer weten, kijk ook eens bij het menu onder grammar! 
+Vanaf vandaag ga je bezig met het project "Leisure & Hospitality" in drietallen. De taken verdeel je onderling. 
+Tijdens dit project ga je bezig met de verschillende kanten van je opleiding en ga je dit toepassen in de les. Het project duurt een aantal weken en per week worden er opdrachten klaargezet. Bij deze opdrachten vind je tevens een weekformulier. Vul deze elke week in en sla het op! Aan het eind van het hele project lever je die ook in. Mocht je bijvoorbeeld een stukje grammatica niet meer weten, kijk ook eens bij het menu onder grammar! 
+
+Aan het eind van de periode presenteer je je bevindingen in een presentatie van maximaal 8 minuten.
 
 Veel succes met het project!
 
