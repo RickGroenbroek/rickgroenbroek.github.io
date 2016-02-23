@@ -2,13 +2,15 @@
 layout: page 
 title: Week two 
 image: 
-   feature: abstract-3.jpg
+   feature: abstract-5.jpg
    credit: mosta2bal
    creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
 comments: false
 share: false 
 ---
+Recreatiebedrijf,
 
+je leidinggevende wil een nieuwe ronde activiteiten zoeken, en iedereen mag ideeën aandragen. Jij gaat ook een idee uitwerken, namelijk een activiteit voor in het buitenland. 
 
 
 
