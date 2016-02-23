@@ -38,7 +38,7 @@ Als je dit hebt gedaan, dan open je het document "Leesvaardigheid Student" en le
 Succes!
 
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWV00wNkg3Q085cmM#list" width="650" height="200" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWV00wNkg3Q085cmM#list" width="650" height="250" frameborder="0"></iframe>
 
 <div style="float: left"> 
 <a href="{{ site.url }}/business-administration/project/process/" class="btn">Go back to process</a>
