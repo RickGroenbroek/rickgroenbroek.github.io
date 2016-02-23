@@ -14,10 +14,10 @@ Verwerken van brieven
 
 
 
-0BycjBNS3AKDWV00wNkg3Q085cmM
 
 
 
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWV00wNkg3Q085cmM#list" width="650" height="200" frameborder="0"></iframe>
 
 <div style="float: left"> 
 <a href="{{ site.url }}/business-administration/project/process/" class="btn">Go back to process</a>
