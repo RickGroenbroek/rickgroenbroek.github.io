@@ -8,12 +8,29 @@ image:
 comments: false
 share: false 
 ---
-Verwerken van brieven
+Verwerken van brieven,
 
-<br>De studenten krijgen brieven, die ze moeten lezen. De gegevens uit de brief verwerken ze op een invulformulier. Tevens beantwoorden ze er vragen over. Daarna brengen ze kort hun leidinggevende op de hoogte van de brieven, in een e-mail. Uiteindelijk krijgen ze nog één of twee leesopdrachten die te maken hebben met het beroepsveld.
+je krijgt twee brieven binnen van klanten die om wat informatie vragen en het één en ander willen afspreken. Deze post moet je archiveren en verwerken op een daarvoor bestemd formulier. Dit formulier vind je helemaal onderaan. Je verwerkt beide brieven op een apart formulier en die sla je op je PC op. Daarna ga je verder met de opdracht hieronder.
 
+<hr>
+<b>Leidinggevende op de hoogte brengen,</b>
 
+Stuur nu een korte e-mail naar jouw leidinggevende in het Engels om het bezoek vast te zetten. 
 
+To: Steve Mc Caulker
+Subject: {bezoek van student leisure}
+
+{aanhef} 
+
+{vraag de heer Caulker of het mogelijk is om een bezoek te plannen voor de klant(en)} 
+
+{benoem wanneer de klant(en) langs wil komen en of dit mogelijk is} 
+
+{als er verder vragen zijn kan de heer Caulker bij jou terecht} 
+
+{afsluiting van de e-mail}
+
+Sla deze mail op, zodat je er later bij kan. Je kan het ook direct in een dossier stoppen met je andere opdrachten. 
 
 
 
