@@ -1,5 +1,9 @@
 ---
 layout: page
+image: 
+   feature: abstract-7.jpg
+   credit: mosta2bal
+   creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
 title: Documentation
 comments: false
 modified: 2015-09-26
