@@ -18,8 +18,8 @@ Wat ga je doen?
 <li>Alles verwerken in, en schrijven van, een activiteitenplan</li>
 
 Uitgebreide beschrijving:
-Je zoekt vijf locaties in één van de drie landen. Dit kunnen allerlei locaties zijn, je mag zelf kiezen wat. Daarbij verzin je bij één van de locaties een activiteit/thema. Tijdens deze dag kunnen mensen bijvoorbeeld 3 kleinere activiteiten doen. 
-Bijvoorbeeld: je hebt een activiteit "kennismaken met golf". De hele dag staat in het teken van golf. Tijdens deze dag kunnen deelnemers meerdere activiteiten doen in verschillende rondes. 
+<br>Je zoekt vijf locaties in één van de drie landen. Dit kunnen allerlei locaties zijn, je mag zelf kiezen wat. Daarbij verzin je bij één van de locaties een activiteit/thema. Tijdens deze dag kunnen mensen bijvoorbeeld 3 kleinere activiteiten doen. 
+<b>Bijvoorbeeld:</b> je hebt een activiteit "kennismaken met golf". De hele dag staat in het teken van golf. Tijdens deze dag kunnen deelnemers meerdere activiteiten doen in verschillende rondes. 
 Bijvoorbeeld: 
 <li>Ronde 1 (9.00 - 10.00): hoe houd je een golfclub vast.</li> 
 <li>Ronde 2 (10.00 - 11.00): hoe beweeg je een golfclub. </li>
@@ -27,7 +27,7 @@ Bijvoorbeeld:
 
 Per ronde doen een aantal deelnemers mee die rouleren, hiervoor maak je een lijst. Denk o.a. aan een pauze, introductie e.d. Je bent helemaal vrij in hoe jij de dag vormgeeft en hoe je activiteitenplan eruit ziet.
 
-Vergeet tevens het weekformulier niet in te vullen! Sla alle bestanden op en bewaar ze.
+Vergeet niet het weekformulier in te vullen! Sla alle bestanden op en bewaar ze.
 
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWM2VweUJVS1pBc1U#list" width="650" height="200" frameborder="0"></iframe>
