@@ -30,7 +30,7 @@ Per ronde doen een aantal deelnemers mee die rouleren, hiervoor maak je een lijs
 Vergeet tevens het weekformulier niet in te vullen! Sla alle bestanden op en bewaar ze.
 
 
-
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWM2VweUJVS1pBc1U#list" width="650" height="200" frameborder="0"></iframe>
 
 
 
