@@ -5,10 +5,9 @@ image:
    feature: abstract-10.jpg
    credit: mosta2bal
    creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
-comments: true
-share: true 
+comments: false
+share: false
 ---
 
-Etiam laoreet 
 
-<br>mi vitae auctor fringilla. Mauris ac risus ante. Pellentesque non venenatis sapien. Nulla facilisi. Fusce fringilla tincidunt leo a aliquam. Maecenas nec dolor maximus, iaculis leo sed, lobortis leo. Nullam eget turpis vel felis condimentum pharetra. Donec id massa massa. Aenean euismod, justo id pulvinar dictum, leo neque finibus massa, sagittis imperdiet metus lorem in ligula. 
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWNFBtN1NsdHE4Q00#list" width="650" height="200" frameborder="0"></iframe>
