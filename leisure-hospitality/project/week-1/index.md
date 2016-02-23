@@ -45,6 +45,6 @@ Sla je brieven op de computer op, zodat je het aan het einde van het project kan
 <a href="{{ site.url }}/leisure-hospitality/project/task/" class="btn">Go back to task</a>
 </div>
 
-<!--<div style="float: right"> 
+<div style="float: right"> 
 <a href="{{ site.url }}/leisure-hospitality/project/week-2/" class="btn">Go to week 2</a>
-</div> !-->
+</div>
