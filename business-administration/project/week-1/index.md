@@ -32,6 +32,11 @@ Subject: {bezoek van student leisure}
 
 Sla deze mail op, zodat je er later bij kan. Je kan het ook direct in een dossier stoppen met je andere opdrachten. 
 
+<hr>
+Als je dit hebt gedaan, dan open je het document "Leesvaardigheid Student" en lees je beide teksten. Daarna beantwoord je de vragen. Deze doe je tevens bij je andere documenten op je PC/in je dossier.
+
+Succes!
+
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWV00wNkg3Q085cmM#list" width="650" height="200" frameborder="0"></iframe>
 
