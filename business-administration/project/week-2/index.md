@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Lesson two 
+title: Week two 
 image: 
    feature: abstract-10.jpg
    credit: mosta2bal
