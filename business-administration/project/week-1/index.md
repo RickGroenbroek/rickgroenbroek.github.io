@@ -18,7 +18,7 @@ je krijgt twee brieven binnen van klanten die om wat informatie vragen en het é
 Stuur nu een korte e-mail naar jouw leidinggevende in het Engels om het bezoek vast te zetten. 
 
 To: Steve Mc Caulker
-Subject: {bezoek van student leisure}
+<br>Subject: {bezoek van student leisure}
 
 {aanhef} 
 
