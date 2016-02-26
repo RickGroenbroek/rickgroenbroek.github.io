@@ -19,9 +19,9 @@ Rondleiden van cliënten in het bedrijf
 
 
 <div style="float: left"> 
-<a href="{{ site.url }}/business-administration/project/week-1/" class="btn">Go back to lesson one</a>
+<a href="{{ site.url }}/business-administration/project/week-1/" class="btn">Go back to week one</a>
 </div>
 
-<div style="float: right"> 
-<a href="{{ site.url }}/business-administration/project/week-3/" class="btn">Go to lesson three</a>
-</div>
+<!--<div style="float: right"> 
+<a href="{{ site.url }}/business-administration/project/week-3/" class="btn">Go to week three</a>
+</div> !-->
