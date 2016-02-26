@@ -54,3 +54,18 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+
+// TABLES
+table#speaking-links {
+	background: white;
+
+	tr {
+		height: 10px;
+	}
+
+	td {
+		width: 33.33%;
+		padding: 2px;
+	}
+}
