@@ -2,9 +2,9 @@
 layout: page
 title: Tussenassessment
 image:
-	feature: abstract-10.jpg
-	credit: mosta2bal
-    creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg 
+  feature: abstract-11.jpg
+  credit: mosta2bal
+  creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg 
 comments: false
 share: false    
 ---
