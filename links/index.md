@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-index-notitle
 image: 
    feature: abstract-11.jpg
    credit: mosta2bal
@@ -10,7 +10,8 @@ modified: 2016-02-26
 share: false
 ---
 
-Below ?? websites where you can find speaking assignments:
+<script src="warning.js"></script>
+
 <li><a href="http://www.eslflow.com/speakingandcommunicativeicebreakeractivities.html">Speaking 1</a></li>
 <li><a href="http://busyteacher.org/classroom_activities-speaking-worksheets/">Speaking 2</a></li>
 <li><a href="http://www.eslcafe.com/idea/index.cgi?Speaking:">Speaking 3</a></li>
