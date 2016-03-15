@@ -44,6 +44,6 @@ Succes!
 <a href="{{ site.url }}/business-administration/project/process/" class="btn">Go back to process</a>
 </div>
 
-<!--<div style="float: right"> 
+<div style="float: right"> 
 <a href="{{ site.url }}/business-administration/project/week-2/" class="btn">Go to lesson two</a>
-</div> !-->
+</div>
