@@ -11,7 +11,7 @@ share: false
 Writing letters,
 
 <b>Benodigdheden:</b>
-- Microsoft Word
+<br>- Microsoft Word
 
 <b>Situatie:</b>
 <br>Je zorgt ervoor dat de gasten in en uit kunnen checken en verwerkt eventueel bijzonderheden. Zojuist heeft jouw leidinggevende een e-mail gestuurd om te melden dat een gast een betalingsachterstand heeft. Het is nu jouw taak om de klant te informeren met dit nieuws om er zo voor te zorgen dat dit wordt weggewerkt.
