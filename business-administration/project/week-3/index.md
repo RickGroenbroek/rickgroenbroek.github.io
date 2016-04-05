@@ -125,6 +125,6 @@ Maak de weblog hieronder af door de activiteiten te matchen met de tijden. Je ba
 <a href="{{ site.url }}/business-administration/project/week-2/" class="btn">Go back to lesson two</a>
 </div>
 
-<!-- <div style="float: right"> 
+<div style="float: right"> 
 <a href="{{ site.url }}/business-administration/project/week-4/" class="btn">Go to lesson four</a>
-</div> !-->
+</div>

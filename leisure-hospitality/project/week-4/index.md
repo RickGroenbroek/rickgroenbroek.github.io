@@ -80,6 +80,6 @@ Signature:
 <a href="{{ site.url }}/leisure-hospitality/project/week-3/" class="btn">Go back to week three</a>
 </div>
 
-<!-- <div style="float: right"> 
+<div style="float: right"> 
 <a href="{{ site.url }}/leisure-hospitality/project/week-5/" class="btn">Go to week five</a>
-</div> !-->
+</div>

@@ -1,20 +1,25 @@
 ---
 layout: page 
-title: Week seven 
+title: Reflection 
 image: 
-   feature: abstract-3.jpg
+   feature: abstract-5.jpg
    credit: mosta2bal
    creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
-comments: true
-share: true 
+comments: false
+share: false
 ---
+Reflecting,
 
+Beschrijf in een kort verhaal hoe het werken aan het project ging. Dit doe je in het Nederlands.
 
+Benoem ten minste de volgende punten:
+1. Hoe verliep de samenwerking in je groepje?
+2. Wat vond je van de opdracht? Beschrijf per opdracht wat je er van vond. Waarom?
+3. Wat heb je geleerd de afgelopen periode?
+4. Wat zou je graag anders willen zien als je het project kon aanpassen?
+5. Zou je het werken aan dit project aanraden aan toekomstige studenten? Ja of nee, waarom?
 
-
-
-
-
+Sla dit document op bij je andere bestanden, zodat je het straks makkelijk in je verslag kan zetten! Kijk op de volgende pagina wat er precies in je verslag moet komen.
 
 
 <div style="float: left"> 
@@ -22,5 +27,5 @@ share: true
 </div>
 
 <div style="float: right"> 
-<a href="{{ site.url }}/leisure-hospitality/project/week-8/" class="btn">Go to week eight</a>
+<a href="{{ site.url }}/leisure-hospitality/project/week-8/" class="btn">Go to report</a>
 </div>
