@@ -12,11 +12,11 @@ share: false
 Writing your report,
 
 Aan de volgende punten moet je verslag minimaal aan voldoen:
-- Aantrekkelijke voorkant (onder andere namen van de groepsleden en titel: project administration)
-- Table of contents (inhoudsopgave)
-- De uitgewerkte opdrachten per week
-- Reflection (reflectie opdracht)
-- Appendixes (bijlagen: weekformulieren)
+<li>- Aantrekkelijke voorkant (onder andere namen van de groepsleden en titel: project leisure)</li>
+<li>- Table of contents (inhoudsopgave)</li>
+<li>- De uitgewerkte opdrachten per week</li>
+<li>- Reflection (reflectie opdracht)</li>
+<li>- Appendixes (bijlagen: weekformulieren)</li>
 
 Maak ven het verslag een mooi en compleet geheel. Je kan het digitaal inleveren: mailen naar <a href="mailto:k.dijkema@alfa-college.nl"><i class="fa fa-fw fa-envelope"></i>k.dijkema@alfa-college.nl</a> of op papier. Audiobestanden moeten wél gemaild worden.
 
