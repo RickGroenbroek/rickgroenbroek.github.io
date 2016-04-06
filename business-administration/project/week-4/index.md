@@ -10,7 +10,7 @@ share: false
 ---
 Giving a tour,
 
-<b>Situatie:</b>b>
+<b>Situatie:</b>
 <br>
 Je hebt een bezoek van een medewerker van een ander administratief bedrijf. Je gaat de medewerker een rondleiding geven van jouw bedrijf/locatie om een goede indruk te geven. Tijdens de rondleiding laat je een aantal interessante plekken binnen het bedrijf zien en benoem je een aantal belangrijke punten over het bedrijf/de locatie.
 
