@@ -1,7 +1,7 @@
 ---
 layout: page
-title: iMinor dossier Frank
-description: "Dossier Frank"
+title: iMinor dossier Rick
+description: "Dossier rick"
 image:
   feature: abstract-10.jpg
   credit: dargadgetz
@@ -9,4 +9,13 @@ image:
 share: false
 comments: false
 ---
+Evaluatie,
 
+
+
+
+
+
+<div style="float: left"> 
+<a href="{{ site.url }}/iminor-rick/competentie7/" class="btn">Competentie zeven</a>
+</div>

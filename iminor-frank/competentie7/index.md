@@ -30,6 +30,3 @@ Eigen reflectie op gehele iMinor:
 <a href="{{ site.url }}/iminor-frank/competentie6/" class="btn">Competentie zes</a>
 </div>
 
-<div style="float: right"> 
-<a href="{{ site.url }}/iminor-frank/evaluatie/" class="btn">Evaluatie</a>
-</div>
