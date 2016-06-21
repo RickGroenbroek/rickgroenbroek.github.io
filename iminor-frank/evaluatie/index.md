@@ -9,4 +9,13 @@ image:
 share: false
 comments: false
 ---
+Evaluatie,
 
+
+
+
+
+
+<div style="float: left"> 
+<a href="{{ site.url }}/iminor-frank/competentie7/" class="btn">Competentie zeven</a>
+</div>
