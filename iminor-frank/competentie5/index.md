@@ -31,8 +31,8 @@ Competentie vijf: analyse en ontwerpgericht onderzoek,
 
  
 Geel: Overig: korter maken, niet leuk, uitleg in het Nederlands 
-Blauw: Alleen werken
-Rood: Zo doorgaan met deze manier van werken
+<br>Blauw: Alleen werken
+<br>Rood: Zo doorgaan met deze manier van werken
 
 <b>Conclusie: </b>
 <br>De afgelopen periodes hebben de studenten van Administratief medewerker en Leisure gewerkt met projecten die aansluiten bij hun opleidingen. Hier hebben zij met plezier aan gewerkt en ze vonden dat de opdrachten aansloten bij de opleidingen. Uiteraard waren er ook studenten die op en aanmerkingen hadden op de opdrachten. De meest voorkomende tip was om bepaalde opdrachten korter te maken, omdat deze soms te lang duurden. Dit hebben we geverifieerd bij de docent en hij was van mening dat het voor sommige studenten, moeilijker was dan voor de anderen, maar benadrukte dat de opdrachten wel pasten bij het niveau Engels die verwacht wordt van de studenten. 
