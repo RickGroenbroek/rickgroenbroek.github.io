@@ -26,16 +26,6 @@ Eigen reflectie op gehele iMinor:
 <br>De gehele minor was interessant om uit te voeren. Wat mij vooral aansprak was dat je alle vrijheid had om jouw plan vorm te gaan geven. In het begin waren Rick en ik erg ambitieus en zagen we dat het product al snel vorm begon te krijgen. De website en de opdrachten waren al voor onze gestelde deadlines af en al voor de kerst konden we concluderen dat de site compleet was. We hadden graag gewild om de minor in het begin van 2016 af te ronden. Dit is echter niet gelukt, omdat de website werd gebruikt in de derde periode en we allebei het laatste onderdeel niet hadden afgerond (het eindverslag). Persoonlijk heb ik hier geen problemen mee, omdat ik mijn doelstellingen heb bijgesteld. Nadat het tussenassesment was geweest, kreeg ik de indruk dat er nog maar een paar zaken afgerond moesten worden, namelijk het verslag in elkaar zetten en de juiste bewijsstukken erin te vermelden. Onze laatste deadline die we gesteld hadden was om op tien juni het verslag te voltooien en op te sturen naar onze begeleider, zodat zij dit kon beoordelen en goed te keuren. Hierna vragen we het assessment aan om zo de minor af te sluiten. 
 
 
-
-
-
-
-
-
-
-<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWM1hPekJObGRLV3c#list" width="650" height="200" frameborder="0"></iframe>
-
-
 <div style="float: left"> 
 <a href="{{ site.url }}/iminor-frank/competentie6/" class="btn">Competentie zes</a>
 </div>
