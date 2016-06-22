@@ -25,6 +25,8 @@ Competentie zeven: reflectie/zelfprofessionalisering,
 <i>Eigen reflectie</i>
 <br>Ik vond de minor heel interessant. Ik had namelijk de mogelijkheid om twee passies samen te voegen, het stoeien met en het maken van websites en de Engelse taal. Ik vond het prettig om zelf te mogen bedenken wat ik precies ging doen en hoe het eruit kwam te zien. Daarnaast ben ik blij dat Frank hetzelfde idee had en samen wilde werken, alleen en binnen de gestelde uren was het namelijk nooit gelukt. De website was lekker vlot af, waardoor we op tijd konden beginnen met de opdrachten die we gingen maken. Dit proces werkte goed. Nadat alles bijna af was, zijn we enigszins in een “dip” geraakt en werd de minor op een laag pitje gezet. Dit pakten we later weer op. Ik heb dit niet als vervelend ervaren, in de tussentijd zat ik namelijk ook erg druk met mijn LIO-stage. Daarnaast vond ik het prettig dat ik niet verplicht werd in het minor-lokaal aanwezig te zijn. Ik heb dit een paar keren geprobeerd, maar vond het echter te druk om lekker te kunnen werken.
 
+<iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWN3E3TmZZa3BaNVU#list" width="650" height="200" frameborder="0"></iframe>
+
 
 <div style="float: left"> 
 <a href="{{ site.url }}/iminor-rick/competentie6/" class="btn">Competentie zes</a>
