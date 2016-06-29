@@ -19,6 +19,11 @@ In de beginfase van het project waren we hoofdzakelijk bezig met het programmere
 
 Tijdens de ontwikkeling van de website hielden Rick en ik nauw contact met de opdrachtgever, om er zo zeker van te zijn dat het product aan de juiste eisen voldeed. Steeds als er een onderdeel afgerond werd, gaf hij ons zijn akkoord over het product en voerde hij dit in dezelfde week in de les uit. Vervolgens liet hij mij kort weten via een email bericht of de opdrachten goed waren uitgevoerd. Voorbeelden van de gesprekken met de opdrachtgever kunt u vinden in de bijlagen (Evaluatie)
 
+<mark><b>Individuele rol:</b>
+Gedurende het project heb ik de opdrachten voor de Leisure groep op mij genomen. Hiervoor heb ik verschillende opdrachten ontworpen en heb ik de mapjes geprogrammeerd in het programma SublimeText. De opdrachten die ik heb ontworpen voor de doelgroep zijn afgestemd op de wensen van de opdrachtgever. Hij verlangde van mij dat ik per week een vaardigheid verwerkte in de opdrachten. Het gehele project is terug te vinden op msve.nl bij het kopje Leisure and Hospitality. 
+
+Naast het ontwerpen van de verschillende opdrachten heb ik mij bezig gehouden met het opbouwen van de website. Steeds als Rick en ik hadden besproken wat er verbeterd moest worden ging ik aan de slag met het programmeringsprogramma en zorgde ik ervoor dat de inhoud van de site werd geoptimaliseerd. </mark> 
+
 <b>Planning:</b>
 <br>Naast het contact met de opdrachtgever, hebben Rick en ik ervoor gezorgd dat er een strakke planning gerealiseerd kon worden om zo het project op een prettige manier te laten verlopen. Aan het begin hadden wij de ambitie om zo snel mogelijk klaar te zijn met het project. Dit verliep gedeeltelijk anders, doordat bepaalde data opschoven naar een andere plek, omdat Rick les moest gaan geven door een roosterwijziging. Daarnaast werd het product zelf uitgevoerd in een andere periode, waardoor we nog geen zekerheid hadden over de kwaliteit van het product. 
 
